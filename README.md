@@ -1,4 +1,4 @@
-#Four Connect 🎮
+**Four Connect** 🎮
 
 A simple Four Connect game where you can play against a computer opponent.
 
@@ -10,13 +10,14 @@ The computer opponent uses the Minimax algorithm with Alpha-Beta pruning to make
 **Features**
 
 Play against an AI that makes optimal moves using Minimax with Alpha-Beta pruning
+
 Fully interactive graphical interface built with Pygame
 
 Dynamic win detection and turn-based gameplay
 
 Clean and modular Python code structure
 
-**Technologies Used**: python, pygame, minimax algorithm, Alpha-Beta pruning
+**Technologies Used**: python, pygame, minimax algorithm, alpha-beta pruning
 
 **How to Run**
 
